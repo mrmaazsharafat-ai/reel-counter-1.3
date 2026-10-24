@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.ReelCounter" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:statusBarColor">#0F0F14</item>
+        <item name="android:navigationBarColor">#0F0F14</item>
+        <item name="android:windowBackground">#0F0F14</item>
+    </style>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Reel Counter</string>
+    <string name="service_description">Reels scroll hone par count karta hai aur upar ek chota counter dikhata hai. Koi data phone se bahar nahi jata.</string>
+</resources>
